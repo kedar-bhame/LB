@@ -56,6 +56,17 @@
 //
 /////////////////////////////////////////////////////////"""
 
+"""/////////////////////////////////////////////////////////
+//
+//  Function Name   :   NO funciton is created
+//  Input           :   NO input because of static graph
+//  Output          :   Printing the array of order of node that we travel in graph
+//  Description     :   Performs Breadth First Search(BFS) on a static graph
+//  Date            :   04/10/2026
+//  Author          :   Kedar Anant Bhame
+
+
+//////////////////////////////////////////////////////////"""
 graph = {
     'A' : ['B','C','D'],            
     'B' : ['E','F'],
